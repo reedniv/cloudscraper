@@ -41,6 +41,7 @@ Alternatively, clone this repository and run `python setup.py install`.
 - Python 3.x
 - **[Requests](https://github.com/kennethreitz/requests)** >= 2.9.2
 - **[requests_toolbelt](https://pypi.org/project/requests-toolbelt/)** >= 0.9.1
+- **[aiohttp](https://github.com/aio-libs/aiohttp/)** >= 3.7.3
 
 `python setup.py install` will install the Python dependencies automatically. The javascript interpreters and/or engines you decide to use are the only things you need to install yourself, excluding js2py which is part of the requirements as the default.
 
