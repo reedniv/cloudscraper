@@ -35,7 +35,7 @@ setup(
     install_requires = [
         'requests >= 2.9.2',
         'requests_toolbelt >= 0.9.1',
-        'pyparsing >= 2.4.7'
+        'pyparsing >= 2.4.7',
         'aiohttp >= 3.7.3'
     ],
     classifiers=[
