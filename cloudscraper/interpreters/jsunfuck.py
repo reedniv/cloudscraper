@@ -1,3 +1,6 @@
+#!/bin/env python
+# -*- coding:utf-8 -*-
+
 MAPPING = {
     'a': '(false+"")[1]',
     'b': '([]["entries"]()+"")[2]',
