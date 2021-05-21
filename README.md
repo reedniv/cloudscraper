@@ -5,7 +5,7 @@
 [![image](https://img.shields.io/pypi/pyversions/cloudscraper.svg)](https://pypi.org/project/cloudscraper/)
 [![Build Status](https://travis-ci.com/VeNoMouS/cloudscraper.svg?branch=master)](https://travis-ci.com/VeNoMouS/cloudscraper)
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://github.com/VeNoMouS/cloudscraper/graphs/contributors/)
-[![Code scanning - action](https://github.com/actions/upload-artifact/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/actions/upload-artifact/actions/workflows/codeql-analysis.yml)
+[![Code scanning](https://github.com/actions/upload-artifact/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/actions/upload-artifact/actions/workflows/codeql-analysis.yml)
 [![Donate](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-brightgreen.svg)](https://www.buymeacoffee.com/venomous)
 
 A simple Python module to bypass Cloudflare's anti-bot page (also known as "I'm Under Attack Mode", or IUAM), implemented with [Requests](https://github.com/kennethreitz/requests). Cloudflare changes their techniques periodically, so I will update this repo frequently.
